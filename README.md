@@ -1,0 +1,1 @@
+# instalador_frente_de_caixa
